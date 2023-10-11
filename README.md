@@ -1,3 +1,5 @@
+https://github.com/g-gourav-r/Daily_Tasks/assets/75977813/d7cca414-1bbb-49a1-8c74-a835dca40845
+
 # Expense Tracker
 
 Expense Tracker is a simple web application designed to help users keep track of their expenses. It stores all expense data in a CSV file, making it easy to manage your financial records.
